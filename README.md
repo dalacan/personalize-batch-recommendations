@@ -1,5 +1,5 @@
-# personalize-batch-recommendations
-Generate batch personalized recommendations using Amazon Personalize
+# Amazon Personalize Batch Recommendations Lab
+This lab will walk you through on how to train and create batch recommendation using Amazon Personalize. For example, you might what to generate recommendations for a large number of users to be later used for batch-oriented workflows such as sending emails or notifications.
 
 ## Introduction
 ---
