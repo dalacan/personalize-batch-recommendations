@@ -63,8 +63,16 @@ Click on Notebook instance and open the `PersonalizeDevLab` notebook (or the nam
 
 ![SageMaker](static/images/img6.png)
 
+7. Start the lab
+
+Open the notebook `PersonalizeDevLab.ipynb` to start the lab.
+
+Also included is a completed notebook showing the answers and results if you would like to a notebook with the completed steps.
+
+![SageMaker](static/images/img7.png)
+
 ## Cleanup
-Once you're done with the lab, please make sure you follow the instructions at the end of the notebook to delete all the resources you created in your AWS account.
+Once you're done with the lab, please make sure you follow the instructions at the end of the notebook to delete all the resources you created in your AWS account. Once you have done that, go to the **CloudFormation** service in the AWS console and delete the `PersonalizeDevLab` stack.
 
 ---
 
