@@ -9,9 +9,9 @@ This lab will show you how to setup an end-to-end Personalize batch recommendati
 2. Create a solution
 3. Generate batch recommendation
 
-**Lab Instructions**
+## Lab Instructions
 
-## Deploying Your Working Environment
+### Deploying Your Working Environment
 
 The first step is to deploy a CloudFormation template that will perform much of the initial setup work for you. 
 
@@ -63,7 +63,7 @@ Click on Notebook instance and open the `PersonalizeDevLab` notebook (or the nam
 
 ![SageMaker](static/images/img6.png)
 
-## Start the lab
+### Start the lab
 
 Open the notebook `PersonalizeDevLab.ipynb` to start the lab.
 
