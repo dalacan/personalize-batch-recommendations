@@ -67,7 +67,7 @@ Click on Notebook instance and open the `PersonalizeDevLab` notebook (or the nam
 
 Open the notebook `PersonalizeDevLab.ipynb` to start the lab.
 
-Also included is a completed notebook showing the answers and results if you would like to a notebook with the completed steps.
+Also included is a completed notebook, `PersonalizeDevLab-Completed.ipynb` showing the answers and results if you would like to a notebook with the completed steps.
 
 ![SageMaker](static/images/img7.png)
 
