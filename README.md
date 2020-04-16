@@ -59,7 +59,9 @@ It will take a few minutes to provision the resources required for the lab. Once
 
 6. Launch the SageMaker notebook
 
+Click on Notebook instance and open the `PersonalizeDevLab` notebook (or the name of the notebook you provided in Cloudformation) by clicking `Open JupyterLab`
 
+![SageMaker](static/images/img6.png)
 
 ## Cleanup
 Once you're done with the lab, please make sure you follow the instructions at the end of the notebook to delete all the resources you created in your AWS account.
