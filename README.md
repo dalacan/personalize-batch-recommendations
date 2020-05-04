@@ -1,4 +1,5 @@
 This lab is provided as part of AWS Summit Online
+
   ℹ️  You will run this lab in your own AWS account. Please follow directions at the end of the lab to remove resources to avoid future costs.
 
 # Amazon Personalize Batch Recommendations Lab
