@@ -1,6 +1,6 @@
 This lab is provided as part of [AWS Summit Online](https://aws.amazon.com/events/summits/online/), click [here](https://bit.ly/2yLtZqL) to explore the full list of hands-on labs.
 
-  ℹ️  You will run this lab in your own AWS account. Please follow directions at the end of the lab to remove resources to avoid future costs.
+ℹ️  You will run this lab in your own AWS account. Please follow directions at the end of the lab to remove resources to avoid future costs.
 
 # Amazon Personalize Batch Recommendations Lab
 This lab will walk you through on how to train and create batch recommendations using Amazon Personalize. For example, you might want to generate recommendations for a large number of users to be later used for batch-oriented workflows such as sending emails or notifications.
